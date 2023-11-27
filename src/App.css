@@ -1,0 +1,11 @@
+.div {
+   grid-template: auto auto auto;
+   font-size: 30px;
+   text-align: center;
+   margin-top: 300px;
+}
+
+.g {
+   padding: 0px 50px 0px 50px;
+}
+
